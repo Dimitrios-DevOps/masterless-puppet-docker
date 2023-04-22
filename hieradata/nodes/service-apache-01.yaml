@@ -1,0 +1,5 @@
+---
+roles:
+    - roles::service::appserver
+
+roles::service::appserver::port: '50130'
