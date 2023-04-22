@@ -1,5 +1,5 @@
-**Highly available web server**
--
+**Highly available web server with masterless puppet and docker**
+
 To set up the infrastructure execute the run.sh-Script in the _Support_ folder.
 
 `/bin/bash support/run.sh`
